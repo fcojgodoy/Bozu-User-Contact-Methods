@@ -36,7 +36,7 @@ $extra_fields =  array(
 	// array( 'pinterest', __( 'Pinterest Username', 'bozuucm' ), false ),
 	// array( 'wordpress', __( 'WordPress.org Username', 'bozuucm' ), false ),
 	// array( 'phone', __( 'Phone Number', 'bozuucm' ), true ),
-  array( 'city', __( 'Your location', 'bozuucm' ), true )
+  array( 'location', __( 'Your location', 'bozuucm' ), true )
 );
 
 // Use the user_contactmethods to add new fields
